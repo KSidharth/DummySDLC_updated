@@ -23,7 +23,7 @@ const LoginPage: React.FC = () => {
               Welcome Back
             </h1>
             <p className="mt-2 text-sm text-gray-600">
-              Please enter your details to continue
+              Please enter your profile details to continue
             </p>
           </div>
 
